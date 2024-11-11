@@ -1,0 +1,70 @@
+[
+    {
+        "label": "aerosol can",
+        "id": 0
+    },
+    {
+        "label": "battery",
+        "id": 1
+    },
+    {
+        "label": "beverage carton",
+        "id": 2
+    },
+    {
+        "label": "can",
+        "id": 3
+    },
+    {
+        "label": "cardboard",
+        "id": 4
+    },
+    {
+        "label": "clothes",
+        "id": 5
+    },
+    {
+        "label": "glass",
+        "id": 6
+    },
+    {
+        "label": "magazines",
+        "id": 7
+    },
+    {
+        "label": "news paper",
+        "id": 8
+    },
+    {
+        "label": "office paper",
+        "id": 9
+    },
+    {
+        "label": "paper cup",
+        "id": 10
+    },
+    {
+        "label": "pet bottle",
+        "id": 11
+    },
+    {
+        "label": "plastic bag",
+        "id": 12
+    },
+    {
+        "label": "plastic bottle",
+        "id": 13
+    },
+    {
+        "label": "plastic cutlery",
+        "id": 14
+    },
+    {
+        "label": "plastic straws",
+        "id": 15
+    },
+    {
+        "label": "shoes",
+        "id": 16
+    }
+]
